@@ -1,7 +1,7 @@
 [BlackVivido] | [Logo]
 
 # Appname and Version
-* BlackVivido | Vvdo [1.1.01.0001]
+ BlackVivido | Vvdo [1.1.01.0001]
 
 # Date created
 [12/23/2023] at 8:55 AM
