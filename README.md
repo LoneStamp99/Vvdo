@@ -36,6 +36,7 @@ For support or feedback, please contact us at:
 ---
 - GIF
 ---
+
 # Features
 - System (Core)
 ---
@@ -44,6 +45,7 @@ For support or feedback, please contact us at:
   3. Proxy
   4. Themes
   5. Console
+     
 - Support for multiple video formats, and others including:
 ---
 1. .wmv (Windows Media Video)
@@ -55,6 +57,7 @@ For support or feedback, please contact us at:
 7. .ogv (Ogg Video)
 8. .f4v (Flash Video)
 9. .ts (Transport Stream)
+    
 - Basic playback settings, such as:
 ---
   1. Reset
@@ -63,6 +66,7 @@ For support or feedback, please contact us at:
   4. Stop
   5. Aspect ratio
   6. Fullscreen (Include extension tools)
+     
 - Playback extension tools, such as:
 ---
   1. Legacy (Video url, Disk/DVD, Files[Web and Bluray])
@@ -91,6 +95,7 @@ For support or feedback, please contact us at:
   24. Video properties
   25. Voice changer
   26. Mini browser
+      
 - Playlist
 ---
 - Integration using an API with popular streaming services, and others such as:
