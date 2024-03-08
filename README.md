@@ -1,10 +1,10 @@
 ![ico](https://github.com/LoneStamp99/Vvdo/assets/93658802/64e1fdea-cf16-488e-a7e5-515d5f77c503)
 
 # Appname and Version
- BlackVivido | Vvdo <span style="color:red;">1.1.01.0001]</span>
+ *BlackVivido* | Vvdo **1.1.01.0001**
 
 # Date created
-[12/23/2023] at 8:55 AM
+[12/23/2023 at 8:55 AM
 
 # Completion date
 [000000] at
