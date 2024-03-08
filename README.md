@@ -1,4 +1,4 @@
-![ico](https://github.com/LoneStamp99/Vvdo/assets/93658802/64e1fdea-cf16-488e-a7e5-515d5f77c503 "Home")
+![ico](https://github.com/LoneStamp99/Vvdo/assets/93658802/64e1fdea-cf16-488e-a7e5-515d5f77c503 "Logo/Icon")
 
 # Appname and Version
  *BlackVivido* | Vvdo **1.1.01.0001**
@@ -32,7 +32,7 @@ For support or feedback, please contact us at:
 ---
   [![BlackVividovvdo(1)](https://github.com/LoneStamp99/Vvdo/assets/93658802/7d5444f4-318a-4fe2-b494-9f6f0c43148b "Home")](https://github.com/LoneStamp99/Vvdo/assets/93658802/7d5444f4-318a-4fe2-b494-9f6f0c43148b "No url yet")
 
-![BlackVividovvdo(2)](https://github.com/LoneStamp99/Vvdo/assets/93658802/fe96d95e-a16a-4ac0-983a-c8fde70293f5 "Not Fullscreen")(https://github.com/LoneStamp99/Vvdo/assets/93658802/7d5444f4-318a-4fe2-b494-9f6f0c43148b "No url yet")
+![BlackVividovvdo(2)](https://github.com/LoneStamp99/Vvdo/assets/93658802/fe96d95e-a16a-4ac0-983a-c8fde70293f5 "Not Fullscreen")](https://github.com/LoneStamp99/Vvdo/assets/93658802/7d5444f4-318a-4fe2-b494-9f6f0c43148b "No url yet")
 
 - Screenshots
 ---
