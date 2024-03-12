@@ -122,7 +122,7 @@ Available on:
 
 - Mobile
 ---
-[Android] [Iphone]
+[Android] [IOS]
 
 - Web
 ---
