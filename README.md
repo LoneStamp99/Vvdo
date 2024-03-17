@@ -120,13 +120,14 @@ Available on:
 ---
 | Linux | Windows | Mac |
 |--|--|--|
-|![linux-22638](https://github.com/LoneStamp99/Vvdo/assets/93658802/f03f3d55-a184-43c5-895e-d142ab9daa23)|![logo-windows-13479](https://github.com/LoneStamp99/Vvdo/assets/93658802/8b27860c-5606-41d8-ba97-f9bfaa8e471f)|![mac-os-logo](https://github.com/LoneStamp99/Vvdo/assets/93658802/da793145-1984-4c63-af85-30adf573b992)|
+|![linux](https://github.com/LoneStamp99/Vvdo/assets/93658802/aaad78d0-6e4f-4dec-9586-207b86a4a6ff)|![windows-logo](https://github.com/LoneStamp99/Vvdo/assets/93658802/16780aaa-10e5-4b63-87ac-0edfe30c0053)|![mac](https://github.com/LoneStamp99/Vvdo/assets/93658802/2c26d1c7-b2dc-4e42-a3d7-f2ab25e88b45)|
 
 - Mobile
 ---
 | Android | IOS |
 |--|--|
-|![pngtree-beautiful-android-logo-vector-glyph-icon-png-image_1836912](https://github.com/LoneStamp99/Vvdo/assets/93658802/4bf219e2-0c30-49c8-9e48-269eca04a0c2)|![pngwing com](https://github.com/LoneStamp99/Vvdo/assets/93658802/5b3ab627-2207-4c71-b37f-88d9ad8d631d)|
+|![android](https://github.com/LoneStamp99/Vvdo/assets/93658802/4bda63de-cd31-4d34-8afc-00f445fe66b6)|![ios](https://github.com/LoneStamp99/Vvdo/assets/93658802/a7cbc065-4ef7-4bf7-a633-1e8e631717ff)|
+
 
 - Web
 ---
