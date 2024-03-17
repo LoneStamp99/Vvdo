@@ -118,11 +118,15 @@ Available on:
 
 - Desktop
 ---
-[Linux] [Windows] [Mac]
+| Linux | Windows | Mac |
+|![linux-22638](https://github.com/LoneStamp99/Vvdo/assets/93658802/f03f3d55-a184-43c5-895e-d142ab9daa23)|![logo-windows-13479](https://github.com/LoneStamp99/Vvdo/assets/93658802/8b27860c-5606-41d8-ba97-f9bfaa8e471f)|![mac-os-logo](https://github.com/LoneStamp99/Vvdo/assets/93658802/da793145-1984-4c63-af85-30adf573b992)|
 
 - Mobile
 ---
-[Android] [IOS]
+| Android | IOS |
+|![pngtree-beautiful-android-logo-vector-glyph-icon-png-image_1836912](https://github.com/LoneStamp99/Vvdo/assets/93658802/8928fa22-1a86-482e-9a16-5c5c826591d8)|![pngwing com](https://github.com/LoneStamp99/Vvdo/assets/93658802/b99d2e13-43fc-4b96-9a0e-50f3f87bfbe3)|
+
+
 
 - Web
 ---
